@@ -1,0 +1,9 @@
+C:\Users\Ryu\Documents\Visual Studio 2015\Projects\SynthesisMacro\SynthesisMacro\bin\Release\SynthesisMacro.exe.config
+C:\Users\Ryu\Documents\Visual Studio 2015\Projects\SynthesisMacro\SynthesisMacro\bin\Release\SynthesisMacro.exe
+C:\Users\Ryu\Documents\Visual Studio 2015\Projects\SynthesisMacro\SynthesisMacro\bin\Release\SynthesisMacro.pdb
+C:\Users\Ryu\Documents\Visual Studio 2015\Projects\SynthesisMacro\SynthesisMacro\obj\Release\SynthesisMacro.MainForm.resources
+C:\Users\Ryu\Documents\Visual Studio 2015\Projects\SynthesisMacro\SynthesisMacro\obj\Release\SynthesisMacro.Properties.Resources.resources
+C:\Users\Ryu\Documents\Visual Studio 2015\Projects\SynthesisMacro\SynthesisMacro\obj\Release\SynthesisMacro.csproj.GenerateResource.Cache
+C:\Users\Ryu\Documents\Visual Studio 2015\Projects\SynthesisMacro\SynthesisMacro\obj\Release\SynthesisMacro.exe
+C:\Users\Ryu\Documents\Visual Studio 2015\Projects\SynthesisMacro\SynthesisMacro\obj\Release\SynthesisMacro.pdb
+C:\Users\Ryu\Documents\Visual Studio 2015\Projects\SynthesisMacro\SynthesisMacro\obj\Release\SynthesisMacro.csprojResolveAssemblyReference.cache
